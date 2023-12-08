@@ -13,7 +13,9 @@ This repository contains my implementations of Deep Neural Network based archite
 - Detailed problem specification can be found [here](https://github.com/rohankalbag/advanced-machine-learning/blob/main/assignment-1/EE782%202023%20A1.pdf) 
 - My solution for the same can be found [here](https://github.com/rohankalbag/advanced-machine-learning/blob/main/assignment-1/EE782_A1_20d170033.ipynb)
 
-![](output.png)
+<img width="602" alt="" src="https://github.com/rohankalbag/advanced-machine-learning/assets/46604893/9ea74402-634e-45bc-a592-e15580d0f067">
+
+![output](https://github.com/rohankalbag/advanced-machine-learning/assets/46604893/7211cb75-de01-4d29-93d5-8951df6befaa)
 
 ## Facial Similarity Metric Learning and Face Generation using Deep Convolutional Generative Adversarial Networks (DCGAN)
 - Given the [Labeled Faces in the Wild](http://vis-www.cs.umass.edu/lfw/) dataset
@@ -24,11 +26,9 @@ This repository contains my implementations of Deep Neural Network based archite
 - Detailed problem specification can be found [here](https://github.com/rohankalbag/advanced-machine-learning/blob/main/assignment-2/EE782%202023%20A2.pdf) 
 - My solution for the same can be found [here](https://github.com/rohankalbag/advanced-machine-learning/blob/main/assignment-2/EE782_A2_20d170033.py)
 
-
-![]()
-![](faces.png)
+![faces](https://github.com/rohankalbag/advanced-machine-learning/assets/46604893/62255958-3141-48d4-a098-9b648590921c)
 
 Input Image    |  Conditionally Generated Image 
 :-------------------------:|:-------------------------:
-<img src="./f1.png" width=455></img> | <img src="./f2.png" width=425></img> 
+<img src="https://github.com/rohankalbag/advanced-machine-learning/assets/46604893/720f9817-a669-437a-87de-bba59956b860" width=455></img> | <img src="https://github.com/rohankalbag/advanced-machine-learning/assets/46604893/2205ea0f-0a42-4702-8e12-86e003e70186" width=425></img> 
 
