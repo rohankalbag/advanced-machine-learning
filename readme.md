@@ -26,11 +26,6 @@ This repository contains my implementations of Deep Neural Network based archite
 - Detailed problem specification can be found [here](https://github.com/rohankalbag/advanced-machine-learning/blob/main/assignment-2/EE782%202023%20A2.pdf) 
 - My solution for the same can be found [here](https://github.com/rohankalbag/advanced-machine-learning/blob/main/assignment-2/EE782_A2_20d170033.py)
 
-
-<p align="center">
-<img src="https://github.com/rohankalbag/advanced-machine-learning/assets/46604893/9ea74402-634e-45bc-a592-e15580d0f067" width=800></img>
-</p>
-
 <p align="center">
 <img src="https://github.com/rohankalbag/advanced-machine-learning/assets/46604893/62255958-3141-48d4-a098-9b648590921c" width=800></img>
 </p>
